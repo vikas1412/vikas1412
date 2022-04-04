@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikas1412
-- 👀 I’m interested in Making useful features with Web App, Android or IOS app. It must serve the need.
-- 🌱 I’m currently learning Web App Development.
-- 💞️ I’m looking to collaborate on Better code implementations. Django channels, WEBRTC.
+- 👀 I’m interested in DevOps, CI/CD pipeline, Jenkins, Docker & of-course learning.
+- 🌱 I’m currently learning DevOps.
+- 💞️ I’m happy to collaborate on [Siksha](https://github.com/vikas1412/siksha) web project.
 - 📫 How to reach me? Email: vikasedu10@gmail.com | Phone: +(91) 7895579330
 
 <!---
